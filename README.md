@@ -12,10 +12,10 @@ This project will allow users to choose a specific time for the alarm to ring. T
 
 ##
 **Key steps:**
-1) Step 1: Import the necessary libraries
-2) Step 2: Create Tkinter GUI
-3) Step 3: Create the menus, buttons, and labels for GUI
-4) Step 4: Tune the alarm function
+1) Import the necessary libraries
+2) Create Tkinter GUI
+3) Create the menus, buttons, and labels for GUI
+4) Tune the alarm function
 
 ##
 PyGUI framework is a simple API used by developers to create user interfaces using native elements for Python applications. 
