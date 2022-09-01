@@ -1,9 +1,12 @@
-# Python-Alarm-Clock
-Python Alarm Clock | Tkinter GUI App
+# Python-GUI-Alarm-Clock
+Python GUI Alarm Clock | Tkinter GUI App
 
-Description: 
-A Python Alarm Clock built which used for daily routine from waking up in the morning and also to notify  at a specified time. This project will allow users to choose a specific time for the alarm to ring. This is initiated from a menu and will be automatically notify as per setting of the time. 
+##
+Aims:
+1) Build a alarm clock from Python and Tkinter. 
+2) Python consists of varies innovative libraries such as the datetime and tkinter which help us to build the project using the current date and time as well as to provide a user interface to set the alarm according to the requirement in 24-hour format. 
+3) This project will allow users to choose a specific time for the alarm to ring. This is initiated from a menu and will be automatically notify as per setting of the time. 
 
 ##
 PyGUI framework is a simple API used by developers to create user interfaces using native elements for Python applications. 
-Tkinter is the standard GUI library for Python. Python when combined with Tkinter provides a fast and easy way to create GUI applications. Tkinter provides a powerful object-oriented interface to the Tk GUI toolkit.
+Tkinter is the standard GUI library for Python. When Python combined Tkinter will provides a speedy and simple way to build GUI applications. Tkinter furnishes a powerful object-oriented interface to the Tk GUI toolkit.
