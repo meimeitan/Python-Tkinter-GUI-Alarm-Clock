@@ -1,4 +1,4 @@
-# Python-GUI-Alarm-Clock
+# **Python Tkinter GUI  Alarm Clock**
 Python GUI Alarm Clock | Tkinter GUI App
 
 ##
