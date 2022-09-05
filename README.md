@@ -11,7 +11,7 @@ This project will allow users to choose a specific time for the alarm to ring. T
 2) To provide a user interface to set the alarm according to the requirement in 24-hour format, current date and time.
 
 ##
-**Structure to build a GUI Alarm clock from tkinter: **
+**Structure to bild a GUI Alarm Clock from tkinter**
 1. Import all the required libraries and modules
 2. Set up main event loop (time & sound) for the functions to be activated(alarm clock will automatically activated when the event is triggered).
 3. Create a user input(GUI application) display window
