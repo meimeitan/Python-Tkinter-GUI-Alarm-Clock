@@ -11,11 +11,10 @@ This project will allow users to choose a specific time for the alarm to ring. T
 2) To provide a user interface to set the alarm according to the requirement in 24-hour format, current date and time.
 
 ##
-**Key steps:**
-1) Import the necessary libraries
-2) Create Tkinter GUI
-3) Create the menus, buttons, and labels for GUI
-4) Tune the alarm function
+**Structure to build a GUI Alarm clock from tkinter: **
+1. Import all the required libraries and modules
+2. Set up main event loop (time & sound) for the functions to be activated(alarm clock will automatically activated when the event is triggered).
+3. Create a user input(GUI application) display window
 
 ##
 PyGUI framework is a simple API used by developers to create user interfaces using native elements for Python applications. 
