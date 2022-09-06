@@ -1,6 +1,9 @@
 # **Python Tkinter GUI  Alarm Clock**
 Python GUI Alarm Clock | Tkinter GUI App
 
+![image](https://user-images.githubusercontent.com/58686831/188689458-851fbfeb-e690-41fa-9fbb-dfaa332a9168.png)
+
+
 ##
 Abstract:
 This project will allow users to choose a specific time for the alarm to ring. This is initiated from a menu and will be automatically notify as per setting of the time. All this set up from Python and Tkinter.
